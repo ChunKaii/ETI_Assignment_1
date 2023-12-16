@@ -43,7 +43,7 @@ Through the usage of both microservice, a console application that connects to t
 * TripStatus
 
 ## Architecture diagram
-![Architecture Diagram](Architecture Diagram.png)
+![Architecture Diagram](https://github.com/ChunKaii/ETI_Assignment_1/blob/main/Architecture%20Diagram.png?raw=true))
 
 ## Instructions for setting up and running the microservices
 1. Connect or create a connection in your MySQL Workbench
