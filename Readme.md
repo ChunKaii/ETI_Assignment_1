@@ -43,11 +43,11 @@ Through the usage of both microservice, a console application that connects to t
 * TripStatus
 
 ## Architecture diagram
-![Architecture Diagram](image/Architecture Diagram.png)
+![Architecture Diagram](Architecture Diagram.png)
 
 ## Instructions for setting up and running the microservices
 1. Connect or create a connection in your MySQL Workbench
-2. In the connection, create a new database with the relevant tables by running the SQL script in the "SQL Script" folder in your connection
+2. In the connection, create a new database with the relevant tables by running the SQL script in your connection
 3. Open the dbConnection.go file
 4. In line 51, update the username and password to what is configured in your MySQL connection, the port number the connection utilises, as well as the database name to "my_db"
 5. Open the Console.go file
